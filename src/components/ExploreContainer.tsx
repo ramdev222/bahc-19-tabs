@@ -7,7 +7,6 @@ interface ContainerProps {
 const ExploreContainer: React.FC<ContainerProps> = ({ name }) => {
   return (
     <div className="container">
-      <br/>&nbsp;
       <h1> I. The comparison of graph's using the Activity (car/container) data. </h1>
       <br/>
       <img alt='beijing_data' src="../assets/icon/beijingplot.png" />

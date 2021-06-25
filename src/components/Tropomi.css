@@ -23,9 +23,9 @@
 }
 
 .container h1 {
-  margin-top: 160vh;
+  margin-top: 50vh;
 }
 
-a {
+.container a {
   color: red;
 }
