@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "BAHC-19_tabs",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

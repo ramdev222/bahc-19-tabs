@@ -1,0 +1,8 @@
+{
+  "name": "BAHC-19_tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "e1dda488"
+}
