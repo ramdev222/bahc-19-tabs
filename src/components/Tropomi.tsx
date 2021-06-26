@@ -18,7 +18,8 @@ const Tropomi: React.FC<ContainerProps> = ({ name }) => {
       <br/>
       &nbsp;
       <p>Fig.1 The following data above are the collected data from the <a href="https://maps.s5p-pal.com/" target="_blank" rel="noreferrer">Copernicus</a> Sentinel-5P website,
-      comparing the day of the COVID-19 pandemic vs. before the pandemic occured.</p>
+      comparing the day of the COVID-19 pandemic vs. before the pandemic occured. If you go back above the map
+      you can see this change when you zoom and hover above China </p>
       <br/>
      </div>
   );

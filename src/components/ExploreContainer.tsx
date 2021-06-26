@@ -14,8 +14,8 @@ const ExploreContainer: React.FC<ContainerProps> = ({ name }) => {
       <img alt='singapore_data' src="../assets/icon/singaporeplot.png" />
       <br/>
       &nbsp;
-      <p>Fig.1 The following data above are the collected data from <a href="https://eodashboard.org/" target="_blank"> EO Dashboard </a>
-      and I have coded these results using ggplot in <a href="https://www.rstudio.com/" target="_blank">R studio </a> so I can be able to compare the three chart lines into a single chart.</p>
+      <p>Fig.1 The following data above are the collected data from <a href="https://eodashboard.org/" target="_blank" rel="noreferrer"> EO Dashboard </a>
+      and I have coded these results using ggplot in <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer">R studio </a> so I can be able to compare the three chart lines into a single chart.</p>
       <br/>
       <img alt='singapore_data' src="../assets/icon/allcities_plot_v2.png" />
       <p>Fig.2 Above is the output of the three activity (car/cargo) chart's displayed in Fig.1 for comparison. <br/><br/>

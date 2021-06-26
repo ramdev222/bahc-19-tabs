@@ -5,11 +5,7 @@ import './Tab2.css';
 const Tab2: React.FC = () => {
   return (
     <IonPage>
-      <IonHeader>
-        <IonToolbar>
-          <IonTitle>Tropospheric Data</IonTitle>
-        </IonToolbar>
-      </IonHeader>
+      
       <IonContent fullscreen>
         <IonHeader collapse="condense">
           <IonToolbar>
