@@ -58,11 +58,11 @@ const App: React.FC = () => (
           </IonTabButton>
           <IonTabButton tab="tab2" href="/tab2">
             <IonIcon icon={ellipse} />
-            <IonLabel>Black Marble</IonLabel>
+            <IonLabel>Tropomi CO2</IonLabel>
           </IonTabButton>
           <IonTabButton tab="tab3" href="/tab3">
             <IonIcon icon={square} />
-            <IonLabel>Tropomi</IonLabel>
+            <IonLabel>Black Marble</IonLabel>
           </IonTabButton>
         </IonTabBar>
       </IonTabs>
